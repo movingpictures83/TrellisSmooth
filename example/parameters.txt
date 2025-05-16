@@ -1,0 +1,2 @@
+csvfile	boston.csv
+variables	variables.txt
